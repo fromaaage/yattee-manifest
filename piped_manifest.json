@@ -5,6 +5,13 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
+      "url": "https://invidious.reallyaweso.me/api/v1"
+    },
+    {
+      "app": "Piped",
+      "region": "World",
+      "country": "Utopia",
+      "flag": "🏴‍☠️",
       "url": "https://id.420129.xyz"
     },
     {
@@ -19,7 +26,7 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://invidious.reallyaweso.me/api/v1"
+      "url": "https://yt.artemislena.eu/api/v1"
     },
     {
       "app": "Piped",
@@ -27,13 +34,6 @@
       "country": "Utopia",
       "flag": "🏴‍☠️",
       "url": "https://pipedapi.nosebs.ru"
-    },
-    {
-      "app": "Piped",
-      "region": "World",
-      "country": "Utopia",
-      "flag": "🏴‍☠️",
-      "url": "https://yt.artemislena.eu/api/v1"
     },
     {
       "app": "Piped",
@@ -54,14 +54,14 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://inv.nadeko.net/api/v1"
+      "url": "https://pipedapi.leptons.xyz"
     },
     {
       "app": "Piped",
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://pipedapi.leptons.xyz"
+      "url": "https://inv.nadeko.net/api/v1"
     }
   ]
 }
