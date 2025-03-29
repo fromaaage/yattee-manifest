@@ -1,0 +1,28 @@
+{
+  "piped": [
+    {
+      "name": "api.piped.private.coffee",
+      "api_url": "https://api.piped.private.coffee"
+    },
+    {
+      "name": "pipedapi.ducks.party",
+      "api_url": "https://pipedapi.ducks.party"
+    },
+    {
+      "name": "pipedapi.orangenet.cc",
+      "api_url": "https://pipedapi.orangenet.cc"
+    },
+    {
+      "name": "pipedapi.syncpundit.io",
+      "api_url": "https://pipedapi.syncpundit.io"
+    },
+    {
+      "name": "piped.wireway.ch",
+      "api_url": "https://piped.wireway.ch"
+    },
+    {
+      "name": "pipedapi.leptons.xyz",
+      "api_url": "https://pipedapi.leptons.xyz"
+    }
+  ]
+}
