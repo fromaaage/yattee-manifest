@@ -13,16 +13,16 @@
       "api_url": "https://pipedapi.orangenet.cc"
     },
     {
-      "name": "pipedapi.syncpundit.io",
-      "api_url": "https://pipedapi.syncpundit.io"
-    },
-    {
       "name": "piped.wireway.ch",
       "api_url": "https://piped.wireway.ch"
     },
     {
       "name": "pipedapi.leptons.xyz",
       "api_url": "https://pipedapi.leptons.xyz"
+    },
+    {
+      "name": "pipedapi.syncpundit.io",
+      "api_url": "https://pipedapi.syncpundit.io"
     }
   ]
 }
