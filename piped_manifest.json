@@ -5,6 +5,13 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
+      "url": "https://id.420129.xyz"
+    },
+    {
+      "app": "Piped",
+      "region": "World",
+      "country": "Utopia",
+      "flag": "🏴‍☠️",
       "url": "https://pipedapi.nosebs.ru"
     },
     {
@@ -12,14 +19,14 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://pipedapi.syncpundit.io"
+      "url": "https://pipedapi.leptons.xyz"
     },
     {
       "app": "Piped",
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://pipedapi.leptons.xyz"
+      "url": "https://pipedapi.syncpundit.io"
     }
   ]
 }
