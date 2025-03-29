@@ -1,123 +1,25 @@
 {
-  "piped": [
+  "instances": [
     {
-      "name": "pipedapi.palveluntarjoaja.eu",
-      "api_url": "https://pipedapi.palveluntarjoaja.eu",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
+      "app": "Piped",
+      "region": "World",
+      "country": "Utopia",
+      "flag": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "url": "https://pipedapi.nosebs.ru"
     },
     {
-      "name": "pipedapi.reallyaweso.me",
-      "api_url": "https://pipedapi.reallyaweso.me",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
+      "app": "Piped",
+      "region": "World",
+      "country": "Utopia",
+      "flag": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "url": "https://pipedapi.syncpundit.io"
     },
     {
-      "name": "api.piped.yt",
-      "api_url": "https://api.piped.yt",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.adminforge.de",
-      "api_url": "https://pipedapi.adminforge.de",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "schaunapi.ehwurscht.at",
-      "api_url": "https://schaunapi.ehwurscht.at",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "api.piped.private.coffee",
-      "api_url": "https://api.piped.private.coffee",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.ducks.party",
-      "api_url": "https://pipedapi.ducks.party",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.nosebs.ru",
-      "api_url": "https://pipedapi.nosebs.ru",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "api.piped.minionflo.net",
-      "api_url": "https://api.piped.minionflo.net",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.orangenet.cc",
-      "api_url": "https://pipedapi.orangenet.cc",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "nuv3d-7iaaa-aaaan-qahma-cai.ic0.app/",
-      "api_url": "https://nuv3d-7iaaa-aaaan-qahma-cai.ic0.app/",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.darkness.services",
-      "api_url": "https://pipedapi.darkness.services",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.leptons.xyz",
-      "api_url": "https://pipedapi.leptons.xyz",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pa.il.ax",
-      "api_url": "https://pa.il.ax",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "piped.wireway.ch",
-      "api_url": "https://piped.wireway.ch",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "pipedapi.syncpundit.io",
-      "api_url": "https://pipedapi.syncpundit.io",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
-    },
-    {
-      "name": "piped.syncpundit.io",
-      "api_url": "https://piped.syncpundit.io",
-      "region": "Europe",
-      "country": "Germany",
-      "flag": "\ud83c\udde9\ud83c\uddea"
+      "app": "Piped",
+      "region": "World",
+      "country": "Utopia",
+      "flag": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "url": "https://pipedapi.leptons.xyz"
     }
   ]
 }
