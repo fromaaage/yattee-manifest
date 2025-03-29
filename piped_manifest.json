@@ -1,28 +1,89 @@
 {
   "piped": [
     {
+      "name": "pipedapi.palveluntarjoaja.eu",
+      "api_url": "https://pipedapi.palveluntarjoaja.eu",
+      "region": "Weltweit"
+    },
+    {
+      "name": "pipedapi.reallyaweso.me",
+      "api_url": "https://pipedapi.reallyaweso.me",
+      "region": "Weltweit"
+    },
+    {
+      "name": "pipedapi.adminforge.de",
+      "api_url": "https://pipedapi.adminforge.de",
+      "region": "Weltweit"
+    },
+    {
+      "name": "api.piped.yt",
+      "api_url": "https://api.piped.yt",
+      "region": "Weltweit"
+    },
+    {
+      "name": "schaunapi.ehwurscht.at",
+      "api_url": "https://schaunapi.ehwurscht.at",
+      "region": "Weltweit"
+    },
+    {
       "name": "api.piped.private.coffee",
-      "api_url": "https://api.piped.private.coffee"
+      "api_url": "https://api.piped.private.coffee",
+      "region": "Weltweit"
     },
     {
       "name": "pipedapi.ducks.party",
-      "api_url": "https://pipedapi.ducks.party"
+      "api_url": "https://pipedapi.ducks.party",
+      "region": "Weltweit"
+    },
+    {
+      "name": "pipedapi.nosebs.ru",
+      "api_url": "https://pipedapi.nosebs.ru",
+      "region": "Weltweit"
+    },
+    {
+      "name": "api.piped.minionflo.net",
+      "api_url": "https://api.piped.minionflo.net",
+      "region": "Weltweit"
     },
     {
       "name": "pipedapi.orangenet.cc",
-      "api_url": "https://pipedapi.orangenet.cc"
+      "api_url": "https://pipedapi.orangenet.cc",
+      "region": "Weltweit"
     },
     {
-      "name": "piped.wireway.ch",
-      "api_url": "https://piped.wireway.ch"
+      "name": "nuv3d-7iaaa-aaaan-qahma-cai.ic0.app/",
+      "api_url": "https://nuv3d-7iaaa-aaaan-qahma-cai.ic0.app/",
+      "region": "Weltweit"
+    },
+    {
+      "name": "pipedapi.darkness.services",
+      "api_url": "https://pipedapi.darkness.services",
+      "region": "Weltweit"
+    },
+    {
+      "name": "pa.il.ax",
+      "api_url": "https://pa.il.ax",
+      "region": "Weltweit"
+    },
+    {
+      "name": "piped.syncpundit.io",
+      "api_url": "https://piped.syncpundit.io",
+      "region": "Weltweit"
     },
     {
       "name": "pipedapi.leptons.xyz",
-      "api_url": "https://pipedapi.leptons.xyz"
+      "api_url": "https://pipedapi.leptons.xyz",
+      "region": "Weltweit"
+    },
+    {
+      "name": "piped.wireway.ch",
+      "api_url": "https://piped.wireway.ch",
+      "region": "Weltweit"
     },
     {
       "name": "pipedapi.syncpundit.io",
-      "api_url": "https://pipedapi.syncpundit.io"
+      "api_url": "https://pipedapi.syncpundit.io",
+      "region": "Weltweit"
     }
   ]
 }
