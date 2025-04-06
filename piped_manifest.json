@@ -12,14 +12,7 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://id.420129.xyz"
-    },
-    {
-      "app": "Piped",
-      "region": "World",
-      "country": "Utopia",
-      "flag": "🏴‍☠️",
-      "url": "https://id.420129.xyz/api/v1"
+      "url": "https://pipedapi.nosebs.ru"
     },
     {
       "app": "Piped",
@@ -33,13 +26,6 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://pipedapi.nosebs.ru"
-    },
-    {
-      "app": "Piped",
-      "region": "World",
-      "country": "Utopia",
-      "flag": "🏴‍☠️",
       "url": "https://invidious.nerdvpn.de/api/v1"
     },
     {
@@ -47,7 +33,7 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://pipedapi.syncpundit.io"
+      "url": "https://inv.nadeko.net/api/v1"
     },
     {
       "app": "Piped",
@@ -61,7 +47,7 @@
       "region": "World",
       "country": "Utopia",
       "flag": "🏴‍☠️",
-      "url": "https://inv.nadeko.net/api/v1"
+      "url": "https://pipedapi.syncpundit.io"
     }
   ]
 }
